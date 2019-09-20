@@ -1,11 +1,11 @@
-public class HelloWorld {
+public class App {
 	public static void main(String[] args) {
 	  System.out.println("Hello, world!");
 	  System.out.println("The answer to the ultimate question of Life, The Universe, and Everything is: " + computeUltimateAnswer());
 	}
 
 	public static int computeUltimateAnswer() {
-		return 6 * 7 + 1 -1;
+		return 6 * 7 ;
 	}
   }
 
